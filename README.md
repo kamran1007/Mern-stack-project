@@ -1,5 +1,5 @@
 # Mern-stack-project
-The website is live at: https://memoriesapp-i0mg.onrender.com/posts
+The website is live at: https://memoriesapp-i0mg.onrender.com
 ![Screenshot (207)](https://user-images.githubusercontent.com/82281265/212330113-bc40d9da-e36a-4932-a7d6-cd5adbe6dcad.png)
 ![Screenshot (209)](https://user-images.githubusercontent.com/82281265/212330163-9635458f-0e3c-41f6-afc5-ca16c893e562.png)
 ![Screenshot (210)](https://user-images.githubusercontent.com/82281265/212330198-cccd6749-ade9-4cea-8646-8f4ac2d96cf4.png)
